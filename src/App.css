@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.user-wrapper {
+	margin-bottom: 20px;
+}
+
+.btn-wrapper {
+	margin-bottom: 20px;
+}
+
+
+button {
+	margin-right: 20px;
+}
+
+button.active {
+	outline: 4px auto -webkit-focus-ring-color;
+}
+
+.poster-wrapper {
+	width: 300px;
+	background-color: aqua;
+}
+
+.poster-wrapper img {
+	width: 100%;
+}
